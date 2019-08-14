@@ -1,0 +1,7 @@
+.h2style{
+    color:red;
+    font-weight: 600;
+    &:hover{
+        color:blue;
+       }
+}
